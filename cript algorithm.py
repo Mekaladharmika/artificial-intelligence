@@ -85,5 +85,3 @@ if isSolvable(arr, S):
 	print("Yes")
 else:
 	print("No")
-	
-	
