@@ -1,4 +1,4 @@
-symptom(amit,fever).
+    symptom(amit,fever).
     symptom(amit,rash).
     symptom(amit,headache).
     symptom(amit,runn_nose).
